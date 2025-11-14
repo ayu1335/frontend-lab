@@ -9,7 +9,7 @@ const Hero = () => {
             <button className='bg-[#2679f3] rounded-md px-3 py-1 text-white shadow-xl text-shadow-md tracking-wide font-medium hover:bg-blue-800'>Get started</button>
             <button className=" rounded-md px-3 py-1 text-black tracking-wide font-medium hover:bg-neutral-500">Pricing -</button>
         </div>
-        <div className='mt-16'>
+        <div className='mt-16 border border-neutral-200 rounded-xl shadow-xl'>
             <img src={pic} alt="hh" />
         </div>
     </div>
