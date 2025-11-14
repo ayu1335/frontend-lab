@@ -1,9 +1,9 @@
-import NavBar from "./components/NavBar"
+import Page from "./components/Page"
 
 const App = () => {
   return (
     <div>
-      <NavBar/>
+        <Page/>
     </div>
   )
 }
